@@ -58,6 +58,7 @@ remote_app = agent_engines.create(
         "google-cloud-aiplatform[adk,agent-engines]==1.88.0",
         "google-adk",
         "python-dotenv",
+        "llama-index",
         "google-auth",
         "tqdm",
         "requests",
